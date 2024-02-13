@@ -1,2 +1,2 @@
 # odin-recipe
-My project website
+My project is to build a basic website with html tag, attribute , comment, link, image
